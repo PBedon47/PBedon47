@@ -1,12 +1,6 @@
-<h1 align="center">
-  Hola
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  soy Pedro Bedon
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%7C+TypeScript;Construyo+interfaces+que+importan.;Disponible+para+nuevas+oportunidades." alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Pedro%20Luis%20Bedon%20Carbajal&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20IA&descAlignY=55&descSize=18&animation=fadeIn"/>
+</div>
 
 <p align="center">
   <a href="mailto:pedrobedon86@gmail.com">
@@ -30,9 +24,10 @@
 - Egresado de **Ingenieria de Software con IA** — SENATI
 - Experiencia como **Practicante Frontend Developer** en Empresoft Peru S.A.C.
 - Enfocado en **React, Next.js, TypeScript** e integracion de **Inteligencia Artificial**
-- He desarrollado proyectos reales: sistemas de gestion, tiendas y chatbots con IA
+- He desarrollado proyectos reales: sistemas de gestion, redes sociales, tiendas y chatbots con IA
 - Disponible para roles como **Frontend Developer**, freelance o colaboraciones digitales
 - Ubicacion: **Lima, Peru**
+- Contacto: **pedrobedon86@gmail.com**
 
 ---
 
@@ -89,6 +84,17 @@
 
 ---
 
+## Actualmente aprendiendo
+
+<p>
+  <img src="https://img.shields.io/badge/React_Avanzado-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
 ## Algunos proyectos
 
 | Proyecto | Descripcion | Stack | Estado |
@@ -117,3 +123,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PBedon47&color=3B82F6&style=flat-square&label=Visitas+al+perfil"/>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer"/>
+</div>
