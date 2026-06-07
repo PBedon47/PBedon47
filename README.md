@@ -25,18 +25,18 @@
 
 ---
 
-## Sobre mí
+## Sobre mi
 
-- Egresado de **Ingeniería de Software con IA** — SENATI
-- Experiencia como **Practicante Frontend Developer** en Empresoft Perú S.A.C.
-- Enfocado en **React, Next.js, TypeScript** e integración de **Inteligencia Artificial**
-- He desarrollado proyectos reales: sistemas de gestión, redes sociales, tiendas y chatbots con IA
+- Egresado de **Ingenieria de Software con IA** — SENATI
+- Experiencia como **Practicante Frontend Developer** en Empresoft Peru S.A.C.
+- Enfocado en **React, Next.js, TypeScript** e integracion de **Inteligencia Artificial**
+- He desarrollado proyectos reales: sistemas de gestion, tiendas y chatbots con IA
 - Disponible para roles como **Frontend Developer**, freelance o colaboraciones digitales
-- Ubicación: **Lima, Perú**
+- Ubicacion: **Lima, Peru**
 
 ---
 
-## Tecnologías conocidas
+## Tecnologias conocidas
 
 **Frontend**
 
@@ -94,22 +94,22 @@
 | Proyecto | Descripcion | Stack | Estado |
 |---|---|---|---|
 | **Asistente Virtual IA** | Chatbot empresarial para automatizar consultas y agendamiento. En uso activo. | Next.js · TypeScript · LangChain · ChatGPT | ![](https://img.shields.io/badge/En_Produccion-22c55e?style=flat-square) |
-| **Alta Taza** | App full stack para gestion de pedidos, clientes y productos. | React · Node.js · PostgreSQL · AWS | ![](https://img.shields.io/badge/Desplegado_AWS-3B82F6?style=flat-square) |
-| **SportZone** | Tienda deportiva con chatbot IA (GPT-4.1 mini) y animaciones GSAP. | React · Node.js · Azure OpenAI · GSAP | ![](https://img.shields.io/badge/Completado-6366f1?style=flat-square) |
-| **Hebras** | Red social full stack con publicaciones, perfiles y comentarios. | React · TypeScript · Node.js · Vercel | ![](https://img.shields.io/badge/En_Produccion-22c55e?style=flat-square) |
+| **Alta Taza** | App full stack para gestion de pedidos, clientes y productos. | React · Node.js · PostgreSQL · AWS | ![](https://img.shields.io/badge/Live_en_AWS-F97316?style=flat-square) |
+| **SportZone** | Tienda deportiva con chatbot IA (GPT-4.1 mini) y animaciones GSAP. | React · Node.js · Azure OpenAI · GSAP | ![](https://img.shields.io/badge/Live_en_Vercel-000000?style=flat-square) |
+| **Hebras** | Red social full stack con publicaciones, perfiles y comentarios. | React · TypeScript · Node.js · Vercel | ![](https://img.shields.io/badge/Live_en_Vercel-000000?style=flat-square) |
 
 ---
 
 ## Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PBedon47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PBedon47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PBedon47&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PBedon47&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PBedon47&theme=tokyonight&hide_border=true&locale=es" height="160"/>
 </p>
 
 ---
