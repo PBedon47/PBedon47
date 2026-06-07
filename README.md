@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PBedon47&color=3B82F6&style=flat-square&label=Profile+Views)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-pbedon--ras--projects.vercel.app-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://pbedon-ras-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--hebras--projects.vercel.app-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-hebras-projects.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-bedon-carbajal)
 
@@ -172,6 +172,6 @@ Egresado de Ingeniería de Software con IA, con experiencia en desarrollo fronte
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/pedro--bedon--carbajal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-bedon-carbajal)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pbedon-ras-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hebras-projects.vercel.app)
 
 </div>
