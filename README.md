@@ -33,7 +33,6 @@
 - He desarrollado proyectos reales: sistemas de gestión, redes sociales, tiendas y chatbots con IA
 - Disponible para roles como **Frontend Developer**, freelance o colaboraciones digitales
 - Ubicación: **Lima, Perú**
-- Contacto: **pedrobedon86@gmail.com**
 
 ---
 
